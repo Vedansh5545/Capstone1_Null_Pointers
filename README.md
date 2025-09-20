@@ -66,3 +66,7 @@ Back in Desktop: switch to **main** → **Fetch origin** → **Pull**.
 > **Troubleshooting:**  
 > - Sign into Desktop if push fails.  
 > - If PR can’t auto-merge, **Branch ▸ Update from main** (or rebase), then push again.
+
+## Screenshots
+![repo](assets/screenshot-1.png)
+![pr](assets/screenshot-2.png)
