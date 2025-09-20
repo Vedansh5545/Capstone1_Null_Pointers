@@ -25,3 +25,6 @@ Convox provides screen reading + voice navigation for Canvas.
 - Week 1–2: Grammar & Reader
 - Week 3–4: Executor & Login
 - Week 5–6: Chaining & Interrupt
+
+## Privacy & Security
+Local-first voice; cloud ASR only if user enables it.
