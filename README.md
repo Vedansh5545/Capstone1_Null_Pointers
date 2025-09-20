@@ -28,3 +28,8 @@ Convox provides screen reading + voice navigation for Canvas.
 
 ## Privacy & Security
 Local-first voice; cloud ASR only if user enables it.
+
+## Demo Script
+1) Login by voice
+2) Open Courses → Assignments
+3) Read due this week
