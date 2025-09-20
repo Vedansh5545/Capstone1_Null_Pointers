@@ -15,3 +15,7 @@ Convox provides screen reading + voice navigation for Canvas.
 2. Create branch
 3. Commit
 4. PR & merge
+
+## Troubleshooting
+- Sign into GitHub Desktop if push fails.
+- Pull latest main before PR.
